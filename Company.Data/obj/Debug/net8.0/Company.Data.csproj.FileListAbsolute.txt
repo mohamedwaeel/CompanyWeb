@@ -1,0 +1,12 @@
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.csproj.AssemblyReference.cache
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.AssemblyInfoInputs.cache
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.AssemblyInfo.cs
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.csproj.CoreCompileInputs.cache
+E:\backend\C#\mvc\Company.Data\bin\Debug\net8.0\Company.Data.deps.json
+E:\backend\C#\mvc\Company.Data\bin\Debug\net8.0\Company.Data.dll
+E:\backend\C#\mvc\Company.Data\bin\Debug\net8.0\Company.Data.pdb
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.dll
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\refint\Company.Data.dll
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\Company.Data.pdb
+E:\backend\C#\mvc\Company.Data\obj\Debug\net8.0\ref\Company.Data.dll
