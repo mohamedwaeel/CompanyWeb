@@ -51,7 +51,6 @@ namespace Company.Web
                 options.LoginPath = "/Account/Login";
                 options.LogoutPath= "/Account/Logout";
                 options.AccessDeniedPath="/Account/AccessDenied";
-                options.Cookie.Name = "Hamada Cookies";
                 options.Cookie.SecurePolicy= CookieSecurePolicy.Always;
                 options.Cookie.SameSite=SameSiteMode.Strict;
             });
@@ -78,7 +77,7 @@ namespace Company.Web
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Account}/{action=SignUp}");
 
             app.Run();
         }

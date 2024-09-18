@@ -15,3 +15,4 @@ E:\backend\C#\mvc\Company.Service\obj\Debug\net8.0\Company.Service.dll
 E:\backend\C#\mvc\Company.Service\obj\Debug\net8.0\refint\Company.Service.dll
 E:\backend\C#\mvc\Company.Service\obj\Debug\net8.0\Company.Service.pdb
 E:\backend\C#\mvc\Company.Service\obj\Debug\net8.0\ref\Company.Service.dll
+E:\backend\C#\mvc\Company.Service\obj\Debug\net8.0\Company.Service.sourcelink.json
