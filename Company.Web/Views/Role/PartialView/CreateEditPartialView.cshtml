@@ -1,0 +1,12 @@
+﻿@model IdentityRole
+<div class="form-group">
+    <label class="col-form-label" asp-for="@Model.Name"></label>
+    <input type="text" asp-for="@Model.Name" class="form-control" readonly />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+</div>
+
+
+@section Scripts{
+    <partial name="_ValidationScriptPartial" />
+}

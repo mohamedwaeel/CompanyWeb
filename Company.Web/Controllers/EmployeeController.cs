@@ -2,8 +2,11 @@
 using Company.Service.Interfaces;
 using Company.Service.Interfaces.Employee;
 using Company.Data.Entities;
+using Microsoft.AspNetCore.Authorization;
 namespace Company.Web.Controllers
 {
+    [Authorize]
+
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;

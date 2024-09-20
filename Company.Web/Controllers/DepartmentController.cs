@@ -5,9 +5,11 @@ using Company.Service.Interfaces;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Company.Service.Interfaces.Department;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Company.Web.Controllers
 {
+    [Authorize]
     public class DepartmentController : Controller
     {
         private readonly IDepartmentService _departmentService;
